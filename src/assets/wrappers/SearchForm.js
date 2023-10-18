@@ -1,9 +1,10 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Wrapper = styled.div`
   margin-bottom: 6rem;
   .form {
     display: grid;
+    background-color: #f0eeeb;
     grid-template-columns: 1fr auto;
   }
   .form-input {
